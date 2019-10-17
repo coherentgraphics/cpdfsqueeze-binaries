@@ -1,4 +1,4 @@
-#cpdfsqueeze
+# cpdfsqueeze
 
 Copyright Coherent Graphics Ltd http://www.coherentpdf.com/
 
