@@ -1,3 +1,5 @@
+#cpdfsqueeze
+
 Copyright Coherent Graphics Ltd http://www.coherentpdf.com/
 
 Cpdfsqueeze is a lossless compressor for PDF files, which works by rearranging and coalescing content within the file.
