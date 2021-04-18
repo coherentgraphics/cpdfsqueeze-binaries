@@ -12,3 +12,9 @@ Syntax: cpdfsqueeze <input file> [-upw <password>] [-opw <password>] <output fil
   -help  Display this list of options
   --help  Display this list of options
 ```
+
+The source code can be found at <https://github.com/johnwhitington/cpdfsqueeze>.
+
+```yaml
+SPDX-License-Identifier: LGPL-2.1-or-later
+```
